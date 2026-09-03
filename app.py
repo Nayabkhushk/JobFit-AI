@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 MAX_TEXT_CHARS = 45000
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-2.5-flash-lite"
 
 
 def extract_pdf(file_bytes: bytes) -> str:
