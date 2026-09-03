@@ -14,7 +14,7 @@ from google.genai import types
 load_dotenv()
 
 st.set_page_config(
-    page_title="ResumeMatch AI",
+    page_title="JobFit-AI",
     page_icon="📄",
     layout="wide",
 )
